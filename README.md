@@ -9,13 +9,6 @@
 
 ###ESTOU APRENDENDO:
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8"/>
-</head>
-<body>
-
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
@@ -41,9 +34,7 @@
                 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateussouzasimao&layout=compact&langs_count=7&theme=dracula"/>
                 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateussouzasimao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
             </div>
-</body>
-</html>
-
+            
 ![Snake animation](https://github.com/Mateussouzasimao/Mateussouzasimao/blob/output/github-contribution-grid-snake.svg)
           
                   
