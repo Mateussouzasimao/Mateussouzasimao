@@ -1,5 +1,5 @@
 <h2 align="center">Olá Devs! 👋, Sou Mateus Simão</h2>
-<h3 align="center">Sou um engenheiro de dados com curiosidades em backend</h3>
+<h3 align="center">Sou engenheiro de dados com curiosidades em backend</h3>
 
 - 🔭 Atualmente estou participando do JumpStart, um processo de aprendizado para a engenharia de dados.
 
