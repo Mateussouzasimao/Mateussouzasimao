@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou participando do JumpStart, um processo de aprendizado para a engenharia de dados.
 
-- 🌱 Estou atualmente aprendendo SQL utilizando o Teradata, Python, SaS e PowerBI.
+- 🌱 Estou atualmente aprendendo sql utilizando o teradata, python, sass e powerBI.
 
 - 📫 Moro na cidade Caieiras/SP, próximo a capital de São Paulo.
 
@@ -15,9 +15,8 @@
 
 <h3>Idiomas e ferramentas:</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt=" git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt=" git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
           
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=mateussouzasimao&show_icons=true&locale=en" alt="mateussouzasimao"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateussouzasimao&" alt="mateussouzasimao"/></p>
 
