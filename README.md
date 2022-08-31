@@ -1,11 +1,11 @@
 <h2 align="center">Olá Devs! 👋, Sou Mateus Simão</h2>
-<h3 align="center">Sou um desenvolvedor de backend</h3>
+<h3 align="center">Sou um engenheiro de dados com curiosidades em backend</h3>
 
-- 🔭 Atualmente estou trabalhando em **Atualmente trabalho como escreve no cartório de notas da cidade de Franco da Rocha/SP**
+- 🔭 Atualmente estou participando do JumpStart, um processo de aprendizado para a engenharia de dados.
 
-- 🌱 Estou atualmente aprendendo **Estou no início da minha jornada como desenvolvedor, iniciando a transição da carreira, aprendi o básico de HTML5 e CSS; e estou atualizando no momento MySQL, logo teremos alguns recursos baseados nos estudos**
+- 🌱 Estou atualmente aprendendo SQL utilizando o Teradata, Python, SaS e PowerBI.
 
-- 📫 Moro em uma cidade chamada Caieiras/SP, próximo a capital de São Paulo.
+- 📫 Moro na cidade Caieiras/SP, próximo a capital de São Paulo.
 
 <h3>Conecte-se comigo:</h3>
 
