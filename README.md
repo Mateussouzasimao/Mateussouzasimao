@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou participando do JumpStart, um processo de aprendizado para a engenharia de dados.
 
-- 🌱 Estou atualmente aprendendo sql utilizando o teradata, python, sass e powerBI.
+- 🌱 Estou atualmente aprendendo sql utilizando o teradata, python e SAS.
 
 - 📫 Moro na cidade Caieiras/SP, próximo a capital de São Paulo.
 
