@@ -1,7 +1,7 @@
 <h2 align="center">Olá Devs! 👋, Sou Mateus Simão</h2>
 <h3 align="center">Sou engenheiro de dados com curiosidades em backend</h3>
 
-- 🔭 Atualmente sou engenheiro de dados na Jump Label Solutions, atualmente alocado no Banco Bradesco.
+- 🔭 Atualmente sou engenheiro de dados na Jump Label Solutions, alocado no Banco Bradesco.
 
 - 🌱 Estou atualmente utilizando o teradata, python e SAS.
 
