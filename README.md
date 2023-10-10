@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou engenheiro de dados na Jump Label Solutions, alocado no Banco Bradesco, utilizando na maior parte do tempo o SAS, para criar soluções na área de dados.
 
-- Atualmente, cursando Gestão da Tecnologia da Informação, na Faculdade de Tecnologia de São Paulo - FATEC, unidade de Franco da Rocha.
+- 📚 Atualmente, cursando Gestão da Tecnologia da Informação, na Faculdade de Tecnologia de São Paulo - FATEC, unidade de Franco da Rocha.
 
 - 📫 Moro na cidade Caieiras/SP, próximo a capital de São Paulo.
 
