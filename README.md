@@ -1,7 +1,7 @@
 <h2 align="center">Olá Devs! 👋, Sou Mateus Simão</h2>
 <h3 align="center">Sou engenheiro de dados com curiosidades em backend</h3>
 
-- 🔭 Atualmente sou engenheiro de dados na Jump Label Solutions, alocado no Banco Bradesco, utilizando na maior parte do tempo o SAS, para criar soluções na área de dados.
+- 🔭 Atualmente sou engenheiro de dados no Banco Bradesco, utilizando na maior parte do tempo o SAS, para criar soluções na área de dados.
 
 - 📚 Atualmente, cursando Gestão da Tecnologia da Informação, na Faculdade de Tecnologia de São Paulo - FATEC, unidade de Franco da Rocha.
 
